@@ -12,6 +12,7 @@ build/
 develop-eggs/
 dist/
 downloads/
+data/gan_images/
 eggs/
 .eggs/
 lib/
